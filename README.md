@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MiyazakiTakara
 - 👀 I’m interested in video games mostly 
-- 🌱 I’m currently learning c#. Always wantedo to make own games so i guess it's tiem to start. 
+- 🌱 I’m currently learning c# and c++. Always wantedo to make own games so i guess it's tiem to start. 
 
 
 
