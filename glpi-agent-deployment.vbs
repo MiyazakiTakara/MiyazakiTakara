@@ -109,7 +109,7 @@ SetupArchitecture = "Auto"
 '    You should use simple quotes (') to set between quotation marks those values
 '    that require it; double quotes (") doesn't work with UNCs.
 '
-SetupOptions = "/quiet RUNNOW=1 SERVER='https://glpi.amuz.wroc.pl/glpi/plugins/fusioninventory'"
+SetupOptions = "/quiet RUNNOW=1 SERVER='https://glpi.amuz.wroc.pl/glpi/'"
 'SetupOptions = "/quiet RUNNOW=1 SERVER='http://glpi.yourcompany.com/plugins/fusioninventory'"
 
 ' Setup
